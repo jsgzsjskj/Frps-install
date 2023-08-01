@@ -33,6 +33,6 @@ chmod 700 ./install-frps.sh
 ```
 ### 服务器管理
 ```Bash
-    Usage: /etc/init.d/frps {start|stop|restart|status|config|version}
+    用法: /etc/init.d/frps {start|stop|restart|status|config|version}
 ```
 
